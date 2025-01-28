@@ -32,7 +32,9 @@
           "properties": {
             "folder_icon": "\uf115",
             "folder_separator_icon": "\ue0b1",
-            "style": "full"
+            "max_depth": 5,
+            "style": "full",
+            "cycle": [ "#ffffff,#111111" ]
           }
         },
         {
