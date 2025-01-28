@@ -33,7 +33,7 @@
             "folder_icon": "\uf115",
             "folder_separator_icon": "\ue0b1",
             "max_depth": 5,
-            "style": "agnoster short",
+            "style": "agnoster_short",
             "cycle": [ "#ffffff","#111111" ]
           }
         },
